@@ -1,0 +1,6 @@
+/home/resmony/RiderProjects/Algorithms/Algorithms/bin/Debug/Algorithms.exe
+/home/resmony/RiderProjects/Algorithms/Algorithms/bin/Debug/Algorithms.pdb
+/home/resmony/RiderProjects/Algorithms/Algorithms/obj/Debug/Algorithms.csprojAssemblyReference.cache
+/home/resmony/RiderProjects/Algorithms/Algorithms/obj/Debug/Algorithms.csproj.CoreCompileInputs.cache
+/home/resmony/RiderProjects/Algorithms/Algorithms/obj/Debug/Algorithms.exe
+/home/resmony/RiderProjects/Algorithms/Algorithms/obj/Debug/Algorithms.pdb
